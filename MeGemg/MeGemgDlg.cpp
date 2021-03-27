@@ -290,7 +290,7 @@ void CMeGemgDlg::OnBnClickedCheck2()
 
 void CMeGemgDlg::OnBnClickedCheck3()
 {
-	// 无限体力
+	// 无限体力  /////
 	/*TRUE   控件的值=>变量*/
 	UpdateData(TRUE);
 	if (dan_xuan_ti_li)
